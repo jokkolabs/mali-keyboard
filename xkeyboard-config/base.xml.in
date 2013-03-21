@@ -1,0 +1,46 @@
+<layout>
+      <configItem>
+        <name>ml</name>
+        <!-- Keyboard indicator for Bambara layouts -->
+        <_shortDescription>bm</_shortDescription>
+        <_description>Bambara</_description>
+        <languageList>
+          <iso639Id>bam</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>fr-oss</name>
+            <!-- Keyboard indicator for French layouts -->
+            <_shortDescription>fr</_shortDescription>
+            <_description>French (Mali, alternative)</_description>
+            <languageList>
+              <iso639Id>fra</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>us-mac</name>
+            <!-- Keyboard indicator for English layouts -->
+            <_shortDescription>en</_shortDescription>
+            <_description>English (Mali, US Macintosh)</_description>
+            <languageList>
+              <iso639Id>eng</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>us-intl</name>
+            <!-- Keyboard indicator for English layouts -->
+            <_shortDescription>en</_shortDescription>
+            <_description>English (Mali, US international)</_description>
+            <languageList>
+              <iso639Id>eng</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
